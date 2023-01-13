@@ -22,7 +22,7 @@ body {
 
 #banner {
  background-image: linear-gradient(to right, #d6ecfc, #8dcbf7);
- color: rgb(185, 133, 69);
+ color: rgb(21, 86, 156);
  padding-top: 5%;
 }
 .promo-title {
@@ -31,12 +31,12 @@ body {
  margin-top: 100px;
 }
 .play-btn {
- width: 60px;
+ width: 52px;
  margin: 15px;
  
 }
 #banner a {
- color:rgb(185, 133, 69);
+ color:rgb(21, 86, 156);
  text-decoration: none;
 }
 .bottom-img {
